@@ -1,0 +1,42 @@
+body {
+    padding:0;
+    margin:0;
+    background:black;
+}
+
+img {
+    position:absolute;
+    top:50%;
+    left:50%;
+    transform:translate(-50%, -50%);
+}
+
+.gif1 {
+    width:100%;
+    height:auto;
+}
+
+.gif2 {
+    width:100%;
+    height:auto;
+}
+
+.gif3 {
+    width:100%;
+    height:auto;
+}
+
+.gif4 {
+    width:100%;
+    height:auto;
+}
+
+.gif5 {
+    width:100%;
+    height:auto;
+}
+
+.gif6 {
+    width:100%;
+    height:auto;
+}
